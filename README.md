@@ -1,1 +1,1 @@
-# demo_hosting
+# Simple Quiz App
